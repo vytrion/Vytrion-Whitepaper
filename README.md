@@ -1,3 +1,5 @@
+OmniNet: A next-generation internet architecture and protocol layer.
+
 OmniNet Protocol — v2.0
 A New Internet Architecture for Identity, Intelligence, and Holographic Computing
 
